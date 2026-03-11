@@ -55,6 +55,3 @@ To run the notebook, **Google Colab** (or a Linux environment with C++17 support
 The notebook supports two execution modes:
 * **Drive Mode:** For developers; saves and loads data structures to/from Google Drive to avoid long re-computations.
 * **External Mode:** Automatically downloads pre-processed structures from a remote archive for quick consultation without rebuilding the entire index.
-
----
-*Project developed in honor of Frank Rosenblatt, the father of Deep Learning.*
