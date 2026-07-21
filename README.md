@@ -1,7 +1,7 @@
 # Information Retrieval Project - Group Rosenblatt
 
 <p align="center">
-  <img src="https://www.ifrax.it/scuola.png" alt="University of Pisa Logo" width="200">
+  <img src="https://www.ifrax.it/scuola.png" alt="University of Pisa Logo" width="1200">
 </p>
 
 This project was developed as part of the **Multimedia Information Retrieval and Computer Vision** course (A.Y. 2025-2026, Prof. Nicola Tonellotto) for the Master's Degree in *Artificial Intelligence and Data Engineering* at the University of Pisa.
